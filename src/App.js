@@ -35,7 +35,7 @@ function App() {
 
   return (
     <div className="todo-container">
-      <h1>React To-Do List</h1>
+      <h1>To-Do List</h1>
 
       <form onSubmit={addTask} className="todo-form">
         <input
